@@ -21,7 +21,7 @@ const SignIn = () => {
             Welcome to ReState
           </Text>
           <Text className="text-3xl font-rubik-bold text-black-300 mt-2 text-center">
-            Let`s Get You Closer to {"\n"}
+            Let's Get You Closer to {"\n"}
             <Text className="text-primary-300">Your Ideal Home</Text>
           </Text>
           <Text className="text-lg font-rubik text-black-200 text-center mt-12">
