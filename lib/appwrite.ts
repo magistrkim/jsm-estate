@@ -43,3 +43,13 @@ export const login = async () => {
     return false;
   }
 };
+
+export const logout = async () => {
+  try {
+    await account.deleteSession("current");
+    return true;
+  } catch (error) {
+    console.error(error);
+    return false;
+  }
+};
