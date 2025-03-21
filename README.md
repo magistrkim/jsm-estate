@@ -40,4 +40,7 @@ Build a full-stack Real Estate application with React Native, featuring Google a
 
 and many more, including code architecture and reusability 
 
-
+<div align="center">
+  
+## <a href="https://www.linkedin.com/in/nataliya-kachor-522170271/" target="_blank" name="features">©️ MagistrKim 2024</a>       
+</div>
